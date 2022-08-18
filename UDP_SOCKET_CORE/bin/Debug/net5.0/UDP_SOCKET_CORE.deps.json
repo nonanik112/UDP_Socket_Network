@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UDP_SOCKET_CORE/1.0.0": {
+        "runtime": {
+          "UDP_SOCKET_CORE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UDP_SOCKET_CORE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

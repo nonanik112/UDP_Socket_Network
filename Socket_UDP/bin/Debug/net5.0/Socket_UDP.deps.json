@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Socket_UDP/1.0.0": {
+        "dependencies": {
+          "UDP_SOCKET_CORE": "1.0.0"
+        },
+        "runtime": {
+          "Socket_UDP.dll": {}
+        }
+      },
+      "UDP_SOCKET_CORE/1.0.0": {
+        "runtime": {
+          "UDP_SOCKET_CORE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Socket_UDP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UDP_SOCKET_CORE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

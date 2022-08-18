@@ -1,0 +1,12 @@
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\bin\Debug\net5.0\UDP_SOCKET_CORE.deps.json
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\bin\Debug\net5.0\UDP_SOCKET_CORE.dll
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\bin\Debug\net5.0\ref\UDP_SOCKET_CORE.dll
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\bin\Debug\net5.0\UDP_SOCKET_CORE.pdb
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\obj\Debug\net5.0\UDP_SOCKET_CORE.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\obj\Debug\net5.0\UDP_SOCKET_CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\obj\Debug\net5.0\UDP_SOCKET_CORE.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\obj\Debug\net5.0\UDP_SOCKET_CORE.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\obj\Debug\net5.0\UDP_SOCKET_CORE.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\obj\Debug\net5.0\UDP_SOCKET_CORE.dll
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\obj\Debug\net5.0\ref\UDP_SOCKET_CORE.dll
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Socket_UDP\UDP_SOCKET_CORE\obj\Debug\net5.0\UDP_SOCKET_CORE.pdb
