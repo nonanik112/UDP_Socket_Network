@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Metehan\\Desktop\\C# Network Progrmlama\\Socket_UDP\\UDP_SOCKET_CORE\\UDP_SOCKET_CORE.csproj",
-      "projectName": "UDP_SOCKET_CORE",
-      "projectPath": "C:\\Users\\Metehan\\Desktop\\C# Network Progrmlama\\Socket_UDP\\UDP_SOCKET_CORE\\UDP_SOCKET_CORE.csproj",
+      "projectUniqueName": "C:\\Users\\Metehan\\Desktop\\C# Network Progrmlama\\Socket_UDP\\Server\\Server.csproj",
+      "projectName": "Server",
+      "projectPath": "C:\\Users\\Metehan\\Desktop\\C# Network Progrmlama\\Socket_UDP\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Metehan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Metehan\\Desktop\\C# Network Progrmlama\\Socket_UDP\\UDP_SOCKET_CORE\\obj\\",
+      "outputPath": "C:\\Users\\Metehan\\Desktop\\C# Network Progrmlama\\Socket_UDP\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

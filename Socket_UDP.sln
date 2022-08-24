@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Socket_UDP", "Socket_UDP\Socket_UDP.csproj", "{A7DDA3CC-3139-4B84-A5B9-667E419993CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP_SOCKET_CORE", "UDP_SOCKET_CORE\UDP_SOCKET_CORE.csproj", "{0B7D9668-8246-4CA6-B23E-6DC30AA56C59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UDP_SOCKET_CORE", "UDP_SOCKET_CORE\UDP_SOCKET_CORE.csproj", "{0B7D9668-8246-4CA6-B23E-6DC30AA56C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{3E0C14DA-F565-4898-9F7C-C79E9E884E89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0B7D9668-8246-4CA6-B23E-6DC30AA56C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B7D9668-8246-4CA6-B23E-6DC30AA56C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B7D9668-8246-4CA6-B23E-6DC30AA56C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0C14DA-F565-4898-9F7C-C79E9E884E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0C14DA-F565-4898-9F7C-C79E9E884E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0C14DA-F565-4898-9F7C-C79E9E884E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0C14DA-F565-4898-9F7C-C79E9E884E89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

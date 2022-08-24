@@ -17,7 +17,7 @@ namespace Socket_UDP
         public static string txtfile;
         public static int count = 0;
         public static int port;
-        static void Main()
+        static void Main4()
         {
             if (GetFile())
             {
@@ -41,7 +41,7 @@ namespace Socket_UDP
             }
             else
             {
-                Main();
+                Main4();
             }
         }
 
